@@ -1,5 +1,3 @@
-# Privacy Policy for TinyTaste
-
 **Last updated:** April 18, 2026
 
 Thank you for using TinyTaste ("we", "our", "the app"). Your privacy is important to us. This Privacy Policy explains what information the app handles and how it is used.
